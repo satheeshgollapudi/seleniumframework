@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24443" started-at="2019-09-28T02:07:45Z" finished-at="2019-09-28T02:08:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24443" started-at="2019-09-28T02:07:45Z" finished-at="2019-09-28T02:08:10Z">
+      <class name="com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter@35083305]" name="launchBrowser" is-config="true" duration-ms="7391" started-at="2019-09-28T12:07:45Z" finished-at="2019-09-28T12:07:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter@35083305]" name="beforeMethod" is-config="true" duration-ms="6" started-at="2019-09-28T12:07:53Z" finished-at="2019-09-28T12:07:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter.verifyLowestFirstPriceListInProduct_deatilsPage() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyLowestFirstPriceListInProduct_deatilsPage()[pri:0, instance:com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter@35083305]" name="verifyLowestFirstPriceListInProduct_deatilsPage" duration-ms="14542" started-at="2019-09-28T12:07:53Z" finished-at="2019-09-28T12:08:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLowestFirstPriceListInProduct_deatilsPage -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter@35083305]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-09-28T12:08:07Z" finished-at="2019-09-28T12:08:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLowestFirstPriceListInProduct_deatilsPage status=SUCCESS method=VerifyLowestFirstPriceFilter.verifyLowestFirstPriceListInProduct_deatilsPage()[pri:0, instance:com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter@35083305] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter@35083305]" name="endTest" is-config="true" duration-ms="2467" started-at="2019-09-28T12:08:07Z" finished-at="2019-09-28T12:08:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

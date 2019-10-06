@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.seleniumFramework.homepage.TestDataDrivenScript">
+        <methods>
+          <include name="endTest"/>
+          <include name="afterMethod"/>
+          <include name="launchBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.seleniumFramework.homepage.TestDataDrivenScript -->
+      <class name="com.seleniumFramework.loginPage.LoginTest">
+        <methods>
+          <include name="endTest"/>
+          <include name="afterMethod"/>
+          <include name="testLoginToApplication"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.seleniumFramework.loginPage.LoginTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
