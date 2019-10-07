@@ -276,3 +276,29 @@ Session ID: 5b1abde61e39099036d92b09ba35226a
 2019-10-05 16:16:38 INFO  WaitHelper:36 - 240
 2019-10-05 16:16:38 INFO  ExcelReader:21 - Creating excel object:-C:\Users\Home\workspace\seleniumHybridFrameorkSatheesh/src/main/java/com/seleniumFramework/data/TestData.xlsx
 2019-10-05 16:16:50 INFO  LoginTest:20 - com.seleniumFramework.loginPage.LoginTest started
+2019-10-07 13:49:01 INFO  TestBase:111 - loading config.properties
+2019-10-07 13:49:01 INFO  TestBase:116 - loading or.properties
+2019-10-07 13:49:34 INFO  WaitHelper:31 - 20
+2019-10-07 13:49:35 INFO  WaitHelper:36 - 240
+2019-10-07 13:49:35 INFO  LoginTest:20 - com.seleniumFramework.loginPage.LoginTest started
+2019-10-07 13:49:47 INFO  WaitHelper:60 - element found...Sign in
+2019-10-07 13:49:47 INFO  LoginPage:56 - clicked on sign in link...
+2019-10-07 13:49:50 INFO  LoginPage:61 - entering email address....satheeshgollapudi@yahoo.com
+2019-10-07 13:49:50 INFO  LoginPage:66 - entering password....varshita05
+2019-10-07 13:49:50 INFO  LoginPage:71 - clicking on submit button...
+2019-10-07 13:49:54 INFO  WaitHelper:60 - element found...WOMEN
+2019-10-07 13:49:54 INFO  GenericHelper:55 - element is displayed..[[ChromeDriver: chrome on XP (d6b51b3e7bf7aa2f842d17dc22207e68)] -> xpath: //*[@id='center_column']/p]
+2019-10-07 13:49:54 INFO  LoginTest:29 - login is sucessful
+2019-10-07 13:51:26 INFO  TestBase:111 - loading config.properties
+2019-10-07 13:51:26 INFO  TestBase:116 - loading or.properties
+2019-10-07 13:51:34 INFO  WaitHelper:31 - 20
+2019-10-07 13:51:34 INFO  WaitHelper:36 - 240
+2019-10-07 13:51:34 INFO  LoginTest:20 - com.seleniumFramework.loginPage.LoginTest started
+2019-10-07 13:51:45 INFO  WaitHelper:60 - element found...Sign in
+2019-10-07 13:51:45 INFO  LoginPage:56 - clicked on sign in link...
+2019-10-07 13:51:48 INFO  LoginPage:61 - entering email address....satheeshgollapudi@yahoo.com
+2019-10-07 13:51:48 INFO  LoginPage:66 - entering password....varshita05
+2019-10-07 13:51:48 INFO  LoginPage:71 - clicking on submit button...
+2019-10-07 13:51:50 INFO  WaitHelper:60 - element found...WOMEN
+2019-10-07 13:51:50 INFO  GenericHelper:55 - element is displayed..[[ChromeDriver: chrome on XP (8186b73730d32e0960ace95d60069328)] -> xpath: //*[@id='center_column']/p]
+2019-10-07 13:51:50 INFO  LoginTest:29 - login is sucessful

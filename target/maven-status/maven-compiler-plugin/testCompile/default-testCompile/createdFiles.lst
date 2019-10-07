@@ -1,0 +1,6 @@
+com\seleniumFramework\registration\Registration.class
+com\seleniumFramework\loginPage\LoginTestDataProvider.class
+com\seleniumFramework\homepage\TestDataDrivenScript.class
+com\seleniumFramework\productDetailsPage\VerifyProductCounts.class
+com\seleniumFramework\loginPage\LoginTest.class
+com\seleniumFramework\productDetailsPage\VerifyLowestFirstPriceFilter.class
